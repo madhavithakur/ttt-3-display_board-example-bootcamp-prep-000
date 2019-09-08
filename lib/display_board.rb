@@ -2,7 +2,7 @@
 
 def display_board
   cell = ""
- cell += "   "
+ cell += "     "
  #arr = Array.new(1, "   ")
   # a = cell.split("")
   # b = a.join("|")
