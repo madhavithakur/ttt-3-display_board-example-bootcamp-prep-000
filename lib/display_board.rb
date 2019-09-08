@@ -1,7 +1,8 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 
 def display_board
- cell = "&nbsp;&nbsp;&nbsp;"
+  cell = ""
+ cell += "   "
  #arr = Array.new(1, "   ")
   # a = cell.split("")
   # b = a.join("|")
