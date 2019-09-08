@@ -2,7 +2,6 @@
 
 def display_board
  arr = Array.new(3) {Array.new(3,'     ')}
- arr[0]
  #arr = Array.new(1, "   ")
   # a = cell.split("")
   # b = a.join("|")
