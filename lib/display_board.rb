@@ -6,6 +6,7 @@ def display_board
  #arr = Array.new(1, "   ")
   # a = cell.split("")
   # b = a.join("|")
+  cell.to_s
 end 
 
 # def display_board
